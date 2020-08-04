@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "VuW7vYECStqWhpn8a1G1D+B5zIJQGjx/Ba8jOspkdc/kt81LIhRh5o2jhLFUKrXH5vy2YB2WobdJcdADXhg0YQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sebul\\source\\repos\\BankLibrary\\BankLibrary.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sebul\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "BJtQpHCrKFSLBMOI8OqAOqU0v1cUEgZnJa3jzQFHlpSjLl0XuDTJqHSAu6WV9BuIgYS7h+75RUswbjpe29xukQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sebul\\source\\repos\\MySuperBank\\MySuperBank.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sebul\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512"
+  ],
+  "logs": []
+}

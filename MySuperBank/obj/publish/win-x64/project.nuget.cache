@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "jpTWFNWIjXWPtGKg/tDKhdAM2ZLxCMxiv3KMc4EJLsLhsRRgKTA46uL2L6YIAr4kKYd4RHKL3WRJNp86VuXbMg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sebul\\source\\repos\\MySuperBank\\MySuperBank.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sebul\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
+    "C:\\Users\\sebul\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\3.1.6\\microsoft.netcore.app.runtime.win-x64.3.1.6.nupkg.sha512",
+    "C:\\Users\\sebul\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\3.1.6\\microsoft.windowsdesktop.app.runtime.win-x64.3.1.6.nupkg.sha512",
+    "C:\\Users\\sebul\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\3.1.6\\microsoft.aspnetcore.app.runtime.win-x64.3.1.6.nupkg.sha512"
+  ],
+  "logs": []
+}
