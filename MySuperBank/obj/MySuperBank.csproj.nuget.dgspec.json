@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\sebul\\source\\repos\\MySuperBank\\MySuperBank.csproj": {}
+    "C:\\Users\\sebul\\source\\repos\\Bank-c#-project\\MySuperBank\\MySuperBank.csproj": {}
   },
   "projects": {
-    "C:\\Users\\sebul\\source\\repos\\BankLibrary\\BankLibrary.csproj": {
+    "C:\\Users\\sebul\\source\\repos\\Bank-c#-project\\BankLibrary\\BankLibrary.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\sebul\\source\\repos\\BankLibrary\\BankLibrary.csproj",
+        "projectUniqueName": "C:\\Users\\sebul\\source\\repos\\Bank-c#-project\\BankLibrary\\BankLibrary.csproj",
         "projectName": "BankLibrary",
-        "projectPath": "C:\\Users\\sebul\\source\\repos\\BankLibrary\\BankLibrary.csproj",
+        "projectPath": "C:\\Users\\sebul\\source\\repos\\Bank-c#-project\\BankLibrary\\BankLibrary.csproj",
         "packagesPath": "C:\\Users\\sebul\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\sebul\\source\\repos\\BankLibrary\\obj\\",
+        "outputPath": "C:\\Users\\sebul\\source\\repos\\Bank-c#-project\\BankLibrary\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -66,14 +66,14 @@
         }
       }
     },
-    "C:\\Users\\sebul\\source\\repos\\MySuperBank\\MySuperBank.csproj": {
+    "C:\\Users\\sebul\\source\\repos\\Bank-c#-project\\MySuperBank\\MySuperBank.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\sebul\\source\\repos\\MySuperBank\\MySuperBank.csproj",
+        "projectUniqueName": "C:\\Users\\sebul\\source\\repos\\Bank-c#-project\\MySuperBank\\MySuperBank.csproj",
         "projectName": "MySuperBank",
-        "projectPath": "C:\\Users\\sebul\\source\\repos\\MySuperBank\\MySuperBank.csproj",
+        "projectPath": "C:\\Users\\sebul\\source\\repos\\Bank-c#-project\\MySuperBank\\MySuperBank.csproj",
         "packagesPath": "C:\\Users\\sebul\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\sebul\\source\\repos\\MySuperBank\\obj\\",
+        "outputPath": "C:\\Users\\sebul\\source\\repos\\Bank-c#-project\\MySuperBank\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -92,8 +92,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Users\\sebul\\source\\repos\\BankLibrary\\BankLibrary.csproj": {
-                "projectPath": "C:\\Users\\sebul\\source\\repos\\BankLibrary\\BankLibrary.csproj"
+              "C:\\Users\\sebul\\source\\repos\\Bank-c#-project\\BankLibrary\\BankLibrary.csproj": {
+                "projectPath": "C:\\Users\\sebul\\source\\repos\\Bank-c#-project\\BankLibrary\\BankLibrary.csproj"
               }
             }
           }

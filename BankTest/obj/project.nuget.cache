@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "VQRnAUOY/ZiOALFRO4FOWsPxunfquaPwg3i9qZkF152fLxsZgioDkonkaqDhxX+HgvuxWNKRTiz5sFN9zWAytw==",
+  "dgSpecHash": "acvnhH236JWwFYIVjoFqY3p5I3YZI6cBA/f3cbbjP0rVDEYeK2LHRA4Fjyjaj3TcbnMBEnPK2mzP4dFFswMAgw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\sebul\\source\\repos\\BankTest\\BankTest.csproj",
+  "projectFilePath": "C:\\Users\\sebul\\source\\repos\\Bank-c#-project\\BankTest\\BankTest.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\sebul\\.nuget\\packages\\coverlet.collector\\1.2.0\\coverlet.collector.1.2.0.nupkg.sha512",
     "C:\\Users\\sebul\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",

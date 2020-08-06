@@ -78,15 +78,58 @@ namespace BankLibrary
             decimal balance = 0;
 
             //header
-            report.AppendLine("Date\t\tAmount\tBalance\tNote");
+            report.AppendLine("Date\t\tAmount\t\tBalance\t\tNote");
             foreach (var item in allTransactions)
             {
                 balance += item.Amount;
-                report.AppendLine($"{item.Date.ToShortDateString()}\t{item.AmountForHumans}\t{balance}\t{item.Notes}");
+                report.AppendLine($"{item.Date.ToShortDateString()}\t{item.Amount}\t\t{balance}\t\t{item.Notes}");
             }
 
             return report.ToString();
         }
 
+        public void Teller()
+        {
+            decimal money;
+            string reason;
+            string dw;
+
+            Console.WriteLine("Type 'd' for deposit, 'w' for withdraw, or press 'enter' to close the window"); ;
+            dw = Console.ReadLine();
+
+            if (dw.Equals("d"))
+            {
+                Console.WriteLine("Enter the deposit amount greater than 0: ");
+                do
+                    money = Convert.ToDecimal(Console.ReadLine());
+                while (money <= 0);
+
+                Console.WriteLine("Enter the deposit note: ");
+                reason = Console.ReadLine();
+
+                MakeDeposit(money, DateTime.Now, reason);
+                Console.WriteLine(GetAccountHistory());
+
+            }
+            else if (dw.Equals("w"))
+            {
+                Console.WriteLine("Enter the withdraw amount greater than 0: ");
+                do
+                    money = Convert.ToDecimal(Console.ReadLine());
+                while (money <= 0);
+                Console.WriteLine("Enter the withdraw note: ");
+                reason = Console.ReadLine();
+
+                MakeWithdrawal(money, DateTime.Now, reason);
+                Console.WriteLine(GetAccountHistory());
+            }
+            else
+            {
+                Console.WriteLine("Exit? y/n");
+                if (Console.ReadLine().Equals("y"))
+                    Environment.Exit(1);
+
+            }
+        }
     }
 }

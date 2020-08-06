@@ -22,10 +22,20 @@ namespace MySuperBank
             account1.MakeWithdrawal(120, DateTime.Now, "check");
             account1.MakeDeposit(2, DateTime.Now, "small");
 
-
             Console.WriteLine(account1.GetAccountHistory());
 
+            string yn;
+            
+            Console.WriteLine("Would you like to make a transaction? y/n");
+            yn = Console.ReadLine();
+            while (yn.Equals("y"))
+            {
+                account1.Teller();
+                Console.WriteLine("Would you like to make another transaction? y/n");
+                yn = Console.ReadLine();
+            }
 
+             
         }
     }
 }
