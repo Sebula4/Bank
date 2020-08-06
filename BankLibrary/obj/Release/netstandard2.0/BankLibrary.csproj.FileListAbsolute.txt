@@ -7,3 +7,12 @@ C:\Users\sebul\source\repos\BankLibrary\obj\Release\netstandard2.0\BankLibrary.A
 C:\Users\sebul\source\repos\BankLibrary\obj\Release\netstandard2.0\BankLibrary.dll
 C:\Users\sebul\source\repos\BankLibrary\obj\Release\netstandard2.0\BankLibrary.pdb
 C:\Users\sebul\source\repos\BankLibrary\obj\Release\netstandard2.0\BankLibrary.csproj.CoreCompileInputs.cache
+C:\Users\sebul\source\repos\Bank-c#-project\BankLibrary\bin\Release\netstandard2.0\BankLibrary.deps.json
+C:\Users\sebul\source\repos\Bank-c#-project\BankLibrary\bin\Release\netstandard2.0\BankLibrary.dll
+C:\Users\sebul\source\repos\Bank-c#-project\BankLibrary\bin\Release\netstandard2.0\BankLibrary.pdb
+C:\Users\sebul\source\repos\Bank-c#-project\BankLibrary\obj\Release\netstandard2.0\BankLibrary.csprojAssemblyReference.cache
+C:\Users\sebul\source\repos\Bank-c#-project\BankLibrary\obj\Release\netstandard2.0\BankLibrary.AssemblyInfoInputs.cache
+C:\Users\sebul\source\repos\Bank-c#-project\BankLibrary\obj\Release\netstandard2.0\BankLibrary.AssemblyInfo.cs
+C:\Users\sebul\source\repos\Bank-c#-project\BankLibrary\obj\Release\netstandard2.0\BankLibrary.csproj.CoreCompileInputs.cache
+C:\Users\sebul\source\repos\Bank-c#-project\BankLibrary\obj\Release\netstandard2.0\BankLibrary.dll
+C:\Users\sebul\source\repos\Bank-c#-project\BankLibrary\obj\Release\netstandard2.0\BankLibrary.pdb

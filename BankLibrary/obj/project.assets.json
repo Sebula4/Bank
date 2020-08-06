@@ -35,6 +35,41 @@
           "build/netstandard2.0/NETStandard.Library.targets": {}
         }
       }
+    },
+    ".NETStandard,Version=v2.0/win-x64": {
+      "Humanizer.Core/2.8.26": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/Humanizer.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/Humanizer.dll": {}
+        }
+      },
+      "Microsoft.NETCore.Platforms/1.1.0": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard1.0/_._": {}
+        },
+        "runtime": {
+          "lib/netstandard1.0/_._": {}
+        }
+      },
+      "NETStandard.Library/2.0.3": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.NETCore.Platforms": "1.1.0"
+        },
+        "compile": {
+          "lib/netstandard1.0/_._": {}
+        },
+        "runtime": {
+          "lib/netstandard1.0/_._": {}
+        },
+        "build": {
+          "build/netstandard2.0/NETStandard.Library.targets": {}
+        }
+      }
     }
   },
   "libraries": {
@@ -211,11 +246,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\sebul\\source\\repos\\BankLibrary\\BankLibrary.csproj",
+      "projectUniqueName": "C:\\Users\\sebul\\source\\repos\\Bank-c#-project\\BankLibrary\\BankLibrary.csproj",
       "projectName": "BankLibrary",
-      "projectPath": "C:\\Users\\sebul\\source\\repos\\BankLibrary\\BankLibrary.csproj",
+      "projectPath": "C:\\Users\\sebul\\source\\repos\\Bank-c#-project\\BankLibrary\\BankLibrary.csproj",
       "packagesPath": "C:\\Users\\sebul\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\sebul\\source\\repos\\BankLibrary\\obj\\",
+      "outputPath": "C:\\Users\\sebul\\source\\repos\\Bank-c#-project\\BankLibrary\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -267,6 +302,11 @@
         "assetTargetFallback": true,
         "warn": true,
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"
+      }
+    },
+    "runtimes": {
+      "win-x64": {
+        "#import": []
       }
     }
   }
